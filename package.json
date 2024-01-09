@@ -12,6 +12,7 @@
   },
   "scripts": {
     "test": "npx playwright test --project=Chromium --headed",
-    "allure": "allure serve"
+    "allure": "allure serve",
+    "report": "npx playwright show-report"
   }
 }

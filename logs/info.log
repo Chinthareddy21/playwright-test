@@ -1,2 +1,12 @@
 {"level":"info","message":"Test Case Started : google search test"}
 {"level":"info","message":"Test Case Completed : google search test Status : passed"}
+{"level":"info","message":"Test Case Started : google search test"}
+{"level":"info","message":"Test Case Completed : google search test Status : passed"}
+{"level":"info","message":"Test Case Started : google search test"}
+{"level":"info","message":"Test Case Completed : google search test Status : passed"}
+{"level":"info","message":"Test Case Started : google search test"}
+{"level":"info","message":"Test Case Completed : google search test Status : passed"}
+{"level":"info","message":"Test Case Started : google search test"}
+{"level":"info","message":"Test Case Completed : google search test Status : passed"}
+{"level":"error","message":"Test Case Started : google search test"}
+{"level":"error","message":"Test Case Completed : google search test Status : passed"}
