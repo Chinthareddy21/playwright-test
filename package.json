@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "playwright": "^1.40.1",
+    "rimraf": "^5.0.5",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.7",
+    "allure-playwright": "^2.10.0"
+  },
+  "scripts": {
+    "test": "npx playwright test --project=Chromium --headed",
+    "allure": "allure serve"
+  }
+}

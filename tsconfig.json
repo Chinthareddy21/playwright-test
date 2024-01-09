@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@pages/*": [
+                "lib/pageFactory/pageFactory/*"
+            ],
+            "@objects/*": [
+                "lib/pageFactory/objectRepository/*"
+            ],
+            "@lib/*": [
+                "lib/*"
+            ],
+        }
+    }
+}
