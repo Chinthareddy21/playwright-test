@@ -20,6 +20,9 @@ export class googlePage extends googleObjects {
     }
 
     async enterSearchtext(): Promise<void> {
+        
+        await this.page.locator(googleObjects.searchBox_XPATH).fill("Something");
+
         await webactions.sendKeys(googleObjects.searchBox_XPATH, credentials.searchText);
     }
 
